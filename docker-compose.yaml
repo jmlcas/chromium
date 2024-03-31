@@ -1,0 +1,15 @@
+services:
+
+    chrome:
+        image: kasmweb/chrome:1.15.0
+        container_name: chrome 
+        stdin_open: true
+        tty: true
+        shm_size: 512m
+        restart: unless-stopped
+        ports:
+            - "6901:6901"
+        environment:
+            - VNC_PW=p4ssw0rd
+
+            
