@@ -1,6 +1,6 @@
 # Chromium - Navegador web
 
-Ver en "localhost:6901"
+Ver en "https://IP:6901"
 
 User : kasm_user
 
