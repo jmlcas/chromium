@@ -1,4 +1,4 @@
-# Chrome - Navegador web
+# Chromium - Navegador web
 
 Ver en "localhost:6901"
 
